@@ -1,0 +1,3 @@
+HarryG,100,stag
+RonG,90,jack russell terrier
+HermioneG,20000,otter

@@ -1,0 +1,5 @@
+HarryG,100,stag
+RonG,90,jack russell terrier
+DracoS,69,nothing
+CedricH,103,basset hound
+JoshDierbergerR,420,sid from harry potter
